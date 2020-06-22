@@ -1,6 +1,6 @@
 # Web to Image
 
-Simulate the user action and save to web page to image.
+Simulate the user action and save the web page to image.
 
 ## Requirements
 
